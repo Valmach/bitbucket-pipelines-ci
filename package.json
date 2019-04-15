@@ -1,0 +1,20 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sten Pittet <sten.pittet@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "install": "^0.12.2",
+    "mocha": "^3.5.3",
+    "npm": "^6.9.0",
+    "supertest": "^3.4.2"
+  }
+}
